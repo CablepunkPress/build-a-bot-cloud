@@ -1,0 +1,12 @@
+{
+    "id": "basic-bot",
+    "name": "Basic Bot",
+    "icon": "💬",
+    "description": "General-purpose AI assistant",
+    "mode": "chat",
+    "features": {
+        "fileUpload": {
+            "enabled": false
+        }
+    }
+}
